@@ -1,10 +1,10 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema",
     "$id": "https://raw.githubusercontent.com/./master/nextflow_schema.json",
-    "title": "CDCgov/MycoID",
+    "title": "Chuckle07/MycoID",
     "workflow_title": "Mycology Identification Workflow",
     "description": "Fungal Species Identification using nanopore sequencing data.",
-    "url": "https://github.com/CDCgov/MycoID",
+    "url": "https://github.com/Chuckle07/MycoID",
     "type": "object",
     "definitions": {
         "input": {
